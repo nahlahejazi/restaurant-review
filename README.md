@@ -1,4 +1,4 @@
-# Restaurant Review App
+# Restaurant Review 
 
 ## How to start the project
 1. Download / clone repository
